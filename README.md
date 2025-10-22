@@ -162,12 +162,7 @@ jupyter notebook
 - Correlation analysis
 - User segmentation
 
-### 4. Predictive Modeling
-- Binary classification (Match / No Match)
-- Model evaluation (Accuracy, Precision, Recall, F1-Score)
-- Feature importance interpretation
-
-### 5. Insights & Recommendations
+### 4. Insights & Recommendations
 - Key success factors extraction
 - Profile optimization suggestions
 
@@ -175,13 +170,12 @@ jupyter notebook
 
 ## 📈 Key Results
 
-> ⚠️ *Section to be completed after analysis*
+> ⚠️ *Section to be completed*
 
 **Expected results examples:**
 - 🎯 Top 5 criteria influencing matching
 - 📊 Match rate by demographic category
 - 💡 High-potential matching profiles
-- 🔮 Predictive model performance (accuracy, AUC-ROC)
 
 ---
 
@@ -192,7 +186,6 @@ jupyter notebook
 - [ ] Personalized recommendation system
 - [ ] Prediction API deployment
 - [ ] Interactive dashboard (Streamlit/Dash)
-- [ ] A/B testing of new features
 
 ---
 
