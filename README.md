@@ -191,10 +191,10 @@ jupyter notebook
 
 ## 👤 Author
 
-**[Romano Albert]**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 💼 [Portfolio](https://your-portfolio.com)
+**Romano Albert**
+- 🔗 [LinkedIn](www.linkedin.com/in/albert-romano-ter0rra)
 - 📧 [Email](mailto:terorra.ia.data@gmail.com)
+- 🐙 [GitHub](https://github.com/Ter0rra)
 
 ---
 
